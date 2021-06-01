@@ -6,4 +6,4 @@ pip3 install -r requriement.txt
 
 python3 JWS-hostSurvival.py -p C
 
-![截图](https://github.com/jammny/JWS-hostSurvival/pic.png)
+![截图](https://github.com/jammny/JWS-hostSurvival/pic.jpg)
